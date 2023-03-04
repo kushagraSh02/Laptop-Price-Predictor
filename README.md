@@ -8,7 +8,11 @@ Then We use random forest regressor to build a model to predict the price of lap
 
 Our model achieves 81% accuracy, which we can improve further by optimizing the model(Not done here).
 
+
+
+
 About Data:
+
 1 Company- String -Laptop Manufacturer
 
 2 Product -String -Brand and Model
